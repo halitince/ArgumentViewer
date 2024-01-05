@@ -5,12 +5,12 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("ArgumentViewer")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyTitle("Argument Viewer")]
+[assembly: AssemblyDescription("Argument Viewer For You")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("ArgumentViewer")]
-[assembly: AssemblyCopyright("Copyright ©  2024")]
+[assembly: AssemblyCompany("Halit ince")]
+[assembly: AssemblyProduct("Argument Viewer")]
+[assembly: AssemblyCopyright("Halit ince - 2024")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
