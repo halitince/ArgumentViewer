@@ -20,7 +20,7 @@ namespace ArgumentViewer
                 Console.WriteLine("");
             }
 
-            while (Console.ReadLine() != "Exist")
+            while (Console.ReadLine() != "exist")
             { }
         }
     }
